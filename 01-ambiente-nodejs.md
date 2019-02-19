@@ -4,6 +4,8 @@
 
 [Windows, Linux, OSX](https://code.visualstudio.com)
 
+[Artigo DevMedia - Introdução ao Visual Studio Code](https://www.devmedia.com.br/introducao-ao-visual-studio-code/34418)
+
 ## Instalar Git - [documentação](https://git-scm.com/book/pt-pt/v2)
 
 [1. Intalação](https://git-scm.com/book/pt-pt/v2/Getting-Started-Installing-Git)
