@@ -1,4 +1,8 @@
-# Ambiente (github, npm, nodejs, ide, nodemon)
+# Ambiente
+
+## Instalar Visual Studio Code
+
+[Windows, Linux, OSX](https://code.visualstudio.com)
 
 ## Instalar Git - [documentação](https://git-scm.com/book/pt-pt/v2)
 
@@ -20,6 +24,8 @@ Sugeridas:
 
 [Linha de Comando](https://git-scm.com/book/pt-pt/v2/Come%C3%A7ando-A-Linha-de-Comando)
 
+[Extenções do Visual Studio Code](https://code.visualstudio.com)
+
 ## Instalar NodeJs e Npm
 
 [Windows, Linux, OSX](https://nodejs.org/en/download)
@@ -30,9 +36,3 @@ Após a instalação (next, next, next), para conferir se tudo está ok, abrir o
 node -v
 npm -v
 ```
-
-## Instalar VisualCode
-
-[Windows, Linux, OSX](https://code.visualstudio.com)
-
-
