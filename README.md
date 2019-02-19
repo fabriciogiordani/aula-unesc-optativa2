@@ -1,6 +1,6 @@
 # Unesc - Optativa 2
 	
-1. 25/02 -	Introdução disciplina, Ambiente (github, npm, nodejs, ide, nodemon)
+1. 25/02 -	[Introdução disciplina, Ambiente (github, npm, nodejs, ide, nodemon)](ambiente-nodejs.md)
 	
 2.	11/03 - TypeScript, ES6
 	
