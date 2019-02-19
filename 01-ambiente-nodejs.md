@@ -24,6 +24,13 @@ Sugeridas:
 
 [Windows, Linux, OSX](https://nodejs.org/en/download)
 
+Após a instalação (next, next, next), para conferir se tudo está ok, abrir o prompt ou terminal e digitar:
+
+```
+node -v
+npm -v
+```
+
 ## Instalar VisualCode
 
 [Windows, Linux, OSX](https://code.visualstudio.com)
