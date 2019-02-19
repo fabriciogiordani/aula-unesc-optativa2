@@ -1,6 +1,6 @@
 # Ambiente (github, npm, nodejs, ide, nodemon)
 
-## Instalar Git [documentação](https://git-scm.com/book/pt-pt/v2)
+## Instalar Git - [documentação](https://git-scm.com/book/pt-pt/v2)
 
 [1. Intalação](https://git-scm.com/book/pt-pt/v2/Getting-Started-Installing-Git)
 
@@ -10,7 +10,9 @@
 
 [Criar conta](https://git-scm.com/book/pt-pt/v2/GitHub-Account-Setup-and-Configuration)
 
-### [Ferramentas para Git](https://git-scm.com/downloads/guis)
+### Ferramentas para Git - [listagem](https://git-scm.com/downloads/guis)
+
+Sugeridas:
 
 [SourceTree](https://www.sourcetreeapp.com)
 [SmartGit](https://www.syntevo.com/smartgit)
