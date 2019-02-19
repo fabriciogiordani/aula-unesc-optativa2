@@ -14,8 +14,11 @@
 
 Sugeridas:
 
-[SourceTree](https://www.sourcetreeapp.com)
-[SmartGit](https://www.syntevo.com/smartgit)
+[SourceTree](https://www.sourcetreeapp.com) - windows e osx
+
+[SmartGit](https://www.syntevo.com/smartgit) - windows, linux e osx
+
+[Linha de Comando](https://git-scm.com/book/pt-pt/v2/Come%C3%A7ando-A-Linha-de-Comando)
 
 ## Instalar NodeJs e Npm
 
