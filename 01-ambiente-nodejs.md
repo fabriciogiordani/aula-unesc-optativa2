@@ -14,4 +14,5 @@
 
 ## Criar uma conta no github
 
-[]
+[Nova conta no Github](https://github.com/join?source=header-home)
+
