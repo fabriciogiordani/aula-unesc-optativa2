@@ -1,6 +1,6 @@
 # Ambiente (github, npm, nodejs, ide, nodemon)
 
-## Instalar Git (documentação)[https://git-scm.com/book/pt-pt/v2]
+## Instalar Git [documentação](https://git-scm.com/book/pt-pt/v2)
 
 [1. Intalação](https://git-scm.com/book/pt-pt/v2/Getting-Started-Installing-Git)
 
@@ -14,7 +14,7 @@
 
 [Windows, Linux, OSX](https://code.visualstudio.com)
 
-## Criar uma conta no [github] (https://github.com)
+## Criar uma conta no [github](https://github.com)
 
 [Criar conta](https://git-scm.com/book/pt-pt/v2/GitHub-Account-Setup-and-Configuration)
 
