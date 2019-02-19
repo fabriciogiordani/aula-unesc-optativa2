@@ -14,7 +14,7 @@
 
 [Windows, Linux, OSX](https://code.visualstudio.com)
 
-## Criar uma conta no github
+## Criar uma conta no [github] (https://github.com)
 
-[Nova conta no Github](https://github.com/join?source=header-home)
+[Criar conta](https://git-scm.com/book/pt-pt/v2/GitHub-Account-Setup-and-Configuration)
 
