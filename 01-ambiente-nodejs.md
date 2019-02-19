@@ -4,7 +4,7 @@
 [Windows, Linux, OSX](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 [Configuração](https://git-scm.com/book/pt-br/v1/Primeiros-passos-Configura%C3%A7%C3%A3o-Inicial-do-Git)
 
-## Instalar NodeJs
+## Instalar NodeJs e Npm
 
 [Windows, Linux, OSX](https://nodejs.org/en/download)
 
