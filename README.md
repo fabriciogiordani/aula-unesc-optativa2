@@ -2,8 +2,8 @@
 		
 1. [Introdução disciplina, Ambiente (github, npm, nodejs, ide, nodemon)](01-ambiente/01-ambiente-nodejs.md)
 2. Repositórios de Código, ES6 e TypeScript
-	2.1. [Repositório](02-repositorio/repositorio.md)
-	2.1. [Exercícios](02-repositorio/exercicios.md)
+* [Repositório](02-repositorio/repositorio.md)
+* [Exercícios](02-repositorio/exercicios.md)
 3. NodeJs, conceitos, projeto, estrutura
 4. Conceitos de RESTFull, NodeJs + Express, Postman
 5. RESTFull, NodeJs + Express, Postman
