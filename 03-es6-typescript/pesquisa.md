@@ -1,4 +1,6 @@
-# Pesquisa
+# Pesquisa sobre JavaScript
+
+JavaScript vem ganhando a cada ano mais força para o desenvolvimento de aplicações de ponta a ponta. Seguem alguns dados do final de 2017 sobre a linguagem.
 
 ![most-indemand-languages-2017.png](imagens/most-indemand-languages-2017.png "most-indemand-languages-2017.png")
 ![most-pull-requests-2017.png](imagens/most-pull-requests-2017.png "most-pull-requests-2017.png")
