@@ -1,7 +1,7 @@
 # Unesc - Optativa 2
 		
-1. [Introdução disciplina, Ambiente (github, npm, nodejs, ide, nodemon)](01-ambiente-nodejs.md)
-1. TypeScript, ES6
+1. [Introdução disciplina, Ambiente (github, npm, nodejs, ide, nodemon)](01-ambiente/01-ambiente-nodejs.md)
+1. Repositórios de Código, ES6 e TypeScript
 1. NodeJs, conceitos, projeto, estrutura
 1. Conceitos de RESTFull, NodeJs + Express, Postman
 1. RESTFull, NodeJs + Express, Postman
