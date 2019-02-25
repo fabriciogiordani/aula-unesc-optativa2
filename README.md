@@ -1,7 +1,7 @@
 # Unesc - Optativa 2
 		
 1. [Introdução disciplina, Ambiente
-  * [Ambiente (github, npm, nodejs, ide, nodemon)](01-ambiente/01-ambiente-nodejs.md)
+  * [Ambiente (github, npm, nodejs, ide, nodemon)](01-ambiente/ambiente-nodejs.md)
 2. Repositórios de Código, ES6 e TypeScript
   * [Repositório](02-repositorio/repositorio.md)
     * [Exercícios](02-repositorio/exercicios.md)
