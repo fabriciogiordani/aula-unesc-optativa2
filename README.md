@@ -1,10 +1,12 @@
 # Unesc - Optativa 2
 		
-1. [Introdução disciplina, Ambiente (github, npm, nodejs, ide, nodemon)](01-ambiente/01-ambiente-nodejs.md)
+1. [Introdução disciplina, Ambiente
+  * [Ambiente (github, npm, nodejs, ide, nodemon)](01-ambiente/01-ambiente-nodejs.md)
 2. Repositórios de Código, ES6 e TypeScript
   * [Repositório](02-repositorio/repositorio.md)
     * [Exercícios](02-repositorio/exercicios.md)
-3. NodeJs, conceitos, projeto, estrutura
+  * [ES6](02-es6/es6.md)    
+3. NodeJs, Conceitos, Projeto, Estrutura
 4. Conceitos de RESTFull, NodeJs + Express, Postman
 5. RESTFull, NodeJs + Express, Postman
 6. Persistencia com MongoDB
