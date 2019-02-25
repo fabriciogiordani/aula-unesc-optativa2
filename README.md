@@ -17,5 +17,3 @@
 11. Desenvolvimento do Projeto - backend + frontend
 12. Avaliação II - Apresentação do Projeto - backend + frontend
 13. N-1
-
-* [Cronograma](https://docs.google.com/spreadsheets/d/1-MlzVX1DJMUUkhFrjBPYVWPy6ISA5Ssn8IfaKmpnkec/edit#gid=0)
