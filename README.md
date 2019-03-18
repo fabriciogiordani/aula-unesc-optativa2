@@ -1,6 +1,7 @@
 # Unesc - Optativa 2
 		
-1. [Introdução disciplina, Ambiente
+0. Introdução disciplina
+1. Ambiente
   * [Ambiente (github, npm, nodejs, ide, nodemon)](01-ambiente/ambiente-nodejs.md)
 2. Repositórios de Código
   * [Repositório](02-repositorio/repositorio.md)

@@ -1,13 +1,5 @@
 # Ambiente
 
-## Instalar Visual Studio Code
-
-[Windows, Linux, OSX](https://code.visualstudio.com)
-
-[Documentação sobre JS no VS](https://code.visualstudio.com/docs/languages/javascript)
-
-[Artigo DevMedia - Introdução ao Visual Studio Code](https://www.devmedia.com.br/introducao-ao-visual-studio-code/34418)
-
 ## Instalar Git - [documentação](https://git-scm.com/book/pt-pt/v2)
 
 [1. Intalação](https://git-scm.com/book/pt-pt/v2/Getting-Started-Installing-Git)
@@ -29,6 +21,14 @@ Sugeridas:
 [Linha de Comando](https://git-scm.com/book/pt-pt/v2/Come%C3%A7ando-A-Linha-de-Comando)
 
 [Extenções do Visual Studio Code](https://code.visualstudio.com)
+
+## Instalar Visual Studio Code
+
+[Windows, Linux, OSX](https://code.visualstudio.com)
+
+[Documentação sobre JS no VS](https://code.visualstudio.com/docs/languages/javascript)
+
+[Artigo DevMedia - Introdução ao Visual Studio Code](https://www.devmedia.com.br/introducao-ao-visual-studio-code/34418)
 
 ## Instalar NodeJs e Npm
 
