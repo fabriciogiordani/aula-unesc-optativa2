@@ -8,7 +8,7 @@
     * [Exercícios](02-repositorio/exercicios.md)
 3. ES6 e TypeScript
   * [ES6](03-es6-typescript/es6.md)
-  * [Exercícios](03-es6-typescript/exercicios.md)
+   * [Exercícios](03-es6-typescript/exercicios.md)
   * [Pesquisa](03-es6-typescript/pesquisa.md)
 4. NodeJs, Conceitos, Projeto, Estrutura
 5. Conceitos de RESTFull, NodeJs + Express, Postman
