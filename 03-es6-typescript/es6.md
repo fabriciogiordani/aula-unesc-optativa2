@@ -19,89 +19,6 @@ ES5 equivalent:
 // -> [ 2, 4, 6 ]
 ```
 
-ES6:
-
-```js
-var evens = [2, 4, 6, 8, 10];
-
-// Expression bodies
-var odds = evens.map(v => v + 1);
-var nums = evens.map((v, i) => v + i);
-
-console.log(odds);
-// -> [3, 5, 7, 9, 11]
-
-console.log(nums);
-// -> [2, 5, 8, 11, 14]
-
-// Statement bodies
-var fives = [];
-nums = [1, 2, 5, 15, 25, 32];
-nums.forEach(v => {
-  if (v % 5 === 0)
-    fives.push(v);
-});
-
-console.log(fives);
-// -> [5, 15, 25]
-
-// Lexical this
-var bob = {
-  _name: 'Bob',
-  _friends: [],
-  printFriends() {
-    this._friends.forEach(f =>
-      console.log(this._name + ' knows ' + f));
-  }
-}
-```
-
-ES5:
-
-```js
-'use strict';
-
-var evens = [2, 4, 6, 8, 10];
-
-// Expression bodies
-var odds = evens.map(function (v) {
-  return v + 1;
-}, this);
-var nums = evens.map(function (v, i) {
-  return v + i;
-}, this);
-
-console.log(odds);
-// -> [3, 5, 7, 9, 11]
-
-console.log(nums);
-// -> [2, 5, 8, 11, 14]
-
-var fives = [];
-nums = [1, 2, 5, 15, 25, 32];
-
-// Statement bodies
-nums.forEach(function (v) {
-  if (v % 5 === 0) {
-    fives.push(v);
-  }
-}, this);
-
-console.log(fives);
-// -> [5, 15, 25]
-
-// Lexical this
-var bob = {
-  _name: 'Bob',
-  _friends: [],
-  printFriends: function printFriends() {
-    this._friends.forEach(function (f) {
-      return console.log(this._name + ' knows ' + f);
-    }, this);
-  }
-};
-```
-
 ## Block Scoping Functions
 
 Block scoped bindings provide scopes other than the function and top level scope. This ensures your variables don't leak out of the scope they're defined:
@@ -156,8 +73,8 @@ console.log(b); // 1
 ES6:
 
 ```js
-// const creates a read-only named constant in ES6.
 'use strict';
+// const creates a read-only named constant in ES6.
 // define favorite as a constant and give it the value 7
 const favorite = 7;
 // Attempt to overwrite the constant
@@ -466,14 +383,14 @@ class HelloWorld extends Hello {
   }
 
   echo() {
-    alert(super.hello());
+    console.log(super.hello());
   }
 }
 
 var hw = new HelloWorld();
 hw.echo();
 
-alert(Hello.sayHelloAll());
+console.log(Hello.sayHelloAll());
 ```
 
 ES5 (approximate):
@@ -500,13 +417,13 @@ HelloWorld.prototype.constructor = HelloWorld;
 HelloWorld.sayHelloAll = Hello.sayHelloAll;
 
 HelloWorld.prototype.echo = function echo() {
-  alert(Hello.prototype.hello.call(this));
+  console.log(Hello.prototype.hello.call(this));
 };
 
 var hw = new HelloWorld();
 hw.echo();
 
-alert(Hello.sayHelloAll());
+console.log(Hello.sayHelloAll());
 ```
 
 A more faithful (albeit, slightly verbose) interpretation can be found in this [Babel](https://goo.gl/ZvEQDq) output.
@@ -720,4 +637,5 @@ f.apply(null, [1, 2, 3]) === 6;
 * [ECMAScript 6 support in Mozilla](https://developer.mozilla.org/en-US/docs/Web/JavaScript/New_in_JavaScript/ECMAScript_6_support_in_Mozilla)
 * [Babel](https://babeljs.io)
 * [JS Rocks](http://jsrocks.org/)
+* [Entendendo ES6](http://entendendoes6.com.br)
 
