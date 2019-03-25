@@ -11,6 +11,7 @@
     * [Exercícios](03-es6-typescript/exercicios.md)
   * [Pesquisa](03-es6-typescript/pesquisa.md)
 4. NodeJs, Conceitos, Projeto, Estrutura
+  * [NodeJs](04-nodejs/nodejs.md)
 5. Conceitos de RESTFull, NodeJs + Express, Postman
 6. RESTFull, NodeJs + Express, Postman
 7. Persistencia com MongoDB
