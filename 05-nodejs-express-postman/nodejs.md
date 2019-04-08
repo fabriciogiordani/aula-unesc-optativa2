@@ -89,6 +89,8 @@ app.get('/api/clientes', (req, res) => {
 
 Ambiente de teste/acesso de APIs.
 
+### Framework e integrações - [TS.ED](https://tsed.io)
+
 # [REST](https://www.restapitutorial.com/)
 
 

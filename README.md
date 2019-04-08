@@ -14,6 +14,7 @@
   * [NodeJs](04-nodejs/nodejs.md)
 5. Conceitos de RESTFull, NodeJs + Express, Postman
   * [NodeJs](05-nodejs-express-postman/nodejs.md)
+  * [Exercícios](05-nodejs-express-postman/exercicios.md)
 6. NodeJs com persistencia de documentos (NeDB - MongoDB subset)
   * [NodeJs](06-nodejs-persistencia/nodejs.md)
 7. Desenvolvimento do Projeto - backend
