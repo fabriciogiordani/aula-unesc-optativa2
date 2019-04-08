@@ -13,12 +13,13 @@
 4. NodeJs, Conceitos, Projeto, Estrutura
   * [NodeJs](04-nodejs/nodejs.md)
 5. Conceitos de RESTFull, NodeJs + Express, Postman
-6. RESTFull, NodeJs + Express, Postman
-7. Persistencia com MongoDB
-8. Desenvolvimento do Projeto - backend
-9. Avaliação I - Apresentação do projeto - backend
-10. Frontend com Angular
-11. Angular Material
-12. Desenvolvimento do Projeto - backend + frontend
-13. Avaliação II - Apresentação do Projeto - backend + frontend
-14. N-1
+  * [NodeJs](05-nodejs-express-postman/nodejs.md)
+6. NodeJs com persistencia de documentos (NeDB - MongoDB subset)
+  * [NodeJs](06-nodejs-persistencia/nodejs.md)
+7. Desenvolvimento do Projeto - backend
+8. Avaliação I - Apresentação do projeto - backend
+9. Frontend com Angular
+10. Angular Material
+11. Desenvolvimento do Projeto - backend + frontend
+12. Avaliação II - Apresentação do Projeto - backend + frontend
+13. N-1
