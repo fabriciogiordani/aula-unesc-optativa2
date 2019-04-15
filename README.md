@@ -15,8 +15,11 @@
 5. Conceitos de RESTFull, NodeJs + Express, Postman
   * [NodeJs](05-nodejs-express-postman/nodejs.md)
   * [Exercícios](05-nodejs-express-postman/exercicios.md)
+  * [TS.ED](05-nodejs-express-postman/tsed.md)
+  * [Exercícios - TS.ED](05-nodejs-express-postman/exercicios-tsed.md)
 6. NodeJs com persistencia de documentos (NeDB - MongoDB subset)
-  * [NodeJs](06-nodejs-persistencia/nodejs.md)
+  * [Persistencia](06-nodejs-persistencia/persistencia.md)
+  * [Exercícios](06-nodejs-persistencia/exercicios.md)
 7. Desenvolvimento do Projeto - backend
 8. Avaliação I - Apresentação do projeto - backend
 9. Frontend com Angular

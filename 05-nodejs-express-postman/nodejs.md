@@ -91,6 +91,8 @@ Ambiente de teste/acesso de APIs.
 
 ### Framework e integrações - [TS.ED](https://tsed.io)
 
+[TS.ED](tsed.md)
+
 # [REST](https://www.restapitutorial.com/)
 
 
