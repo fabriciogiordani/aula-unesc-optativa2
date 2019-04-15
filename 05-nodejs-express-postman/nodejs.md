@@ -12,7 +12,7 @@ Obs.: É necessário ter inicializado o projeto npm.
 
 Usando express:
 
-```
+```js
 // Instancia o ExpressJS
 var express = require("express");
 
@@ -42,7 +42,7 @@ app.listen(3000,
 
 Com ES6:
 
-```
+```js
 // Instancia o ExpressJS
 var express = require("express");
 
@@ -69,7 +69,7 @@ app.listen(3000, () => {
 
 Passando parâmetro na url
 
-```javascript
+```js
 // Ex.: http://127.0.0.1:3000/api/clientes/123
 app.get('/api/clientes/:id', (req, res) => {
   res.send("ID: " + req.params.id);
@@ -78,7 +78,7 @@ app.get('/api/clientes/:id', (req, res) => {
 
 Passando parâmetro na rota
 
-```javascript
+```js
 // Ex.: http://127.0.0.1:3000/api/clientes?id=123
 app.get('/api/clientes', (req, res) => {
   res.send("ID: " + req.query.id);
