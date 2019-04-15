@@ -22,7 +22,7 @@ PUT /api/pessoas/:id
 DELETE /api/pessoas/:id
 ```
 
-Para o campo documento validar CPF ou CNPJ dependendo do tipo de pessoa.
+* Para o campo documento validar CPF ou CNPJ dependendo do tipo de pessoa.
 
 ## Exercício 2 - Criar uma api para um CRUD de contas (despesas ou receitas)
 
@@ -37,8 +37,8 @@ Modelo
 }
 ```
 
-pessoa - dados da Pessoa - para quem foi pago ou de quem foi recebido o valor
-tipo - DESPESA ou RECEITA
+* pessoa - dados da Pessoa - para quem foi pago ou de quem foi recebido o valor
+* tipo - DESPESA ou RECEITA
 
 
 ``` json
