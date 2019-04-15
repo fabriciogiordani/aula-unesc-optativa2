@@ -7,10 +7,12 @@ Modelo
 ```json
 {
     "nome": "Maria da Silva",
-    "tipo": "PESSOA_FISICA", // PESSOA_FISICA ou PESSOA_JURIDICA
+    "tipo": "PESSOA_FISICA",
     "documento": "000.000.000-00", // CPF para pessoa física e CNPJ para pessoa jurídica
 }
 ```
+* tipo - PESSOA_FISICA ou PESSOA_JURIDICA
+* documento - CPF para pessoa física e CNPJ para pessoa jurídica
 
 ```json
 POST /api/pessoas
