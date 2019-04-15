@@ -8,7 +8,7 @@ Modelo
 {
     "nome": "Maria da Silva",
     "tipo": "PESSOA_FISICA",
-    "documento": "000.000.000-00", // CPF para pessoa física e CNPJ para pessoa jurídica
+    "documento": "000.000.000-00", 
 }
 ```
 * tipo - PESSOA_FISICA ou PESSOA_JURIDICA
@@ -31,11 +31,15 @@ Modelo
 ```json
 {
     "descricao": "Gastos com alimentação",
-    "pessoa": {...}, // Dados da Pessoa - para quem foi pago ou de quem foi recebido o valor
-    "tipo": "DESPESA", // DESPESA | RECEITA
+    "pessoa": {}, 
+    "tipo": "DESPESA", 
     "valor": 15.5,
 }
 ```
+
+pessoa - dados da Pessoa - para quem foi pago ou de quem foi recebido o valor
+tipo - DESPESA ou RECEITA
+
 
 ``` json
 POST /api/contas
