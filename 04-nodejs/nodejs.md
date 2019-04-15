@@ -5,7 +5,7 @@
 
 Arquivo app.js
 
-```
+```js
 // Importando a biblioteca HTTP
 var http = require("http");
 
