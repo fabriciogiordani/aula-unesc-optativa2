@@ -12,7 +12,7 @@ npm install --save nedb
 
 Inicializando o banco de dados:
 
-```
+```js
 // Persistencia em arquivo
 var Datastore = require('nedb'), db = new Datastore({ filename: 'path/to/datafile' });
 db.loadDatabase(function (err) {    
@@ -23,7 +23,7 @@ db.loadDatabase(function (err) {
 
 Inicializando o banco de dados:
 
-```
+```js
 // Persistencia em arquivo
 var Datastore = require('nedb'), db = new Datastore({ filename: 'path/to/datafile' });
 db.loadDatabase(function (err) {    
@@ -33,7 +33,7 @@ db.loadDatabase(function (err) {
 
 Exemplo de inserção de documento:
 
-```
+```js
 var doc = { hello: 'world' //string
                , n: 5 //number
                , today: new Date() //date
@@ -54,7 +54,7 @@ Exemplo de consulta de documentos:
 - Operadores de comparação: $lt, $lte, $gt, $gte, $in, $nin, $ne). 
 - Operadores lógicos: $or, $and, $not and $where
 
-```
+```js
 // Buscando todos os documentos cujo atributo hello='world'
 db.find({ hello: 'world' }, function (err, docs) {
   // Comandos
