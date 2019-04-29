@@ -61,6 +61,32 @@ db.find({ hello: 'world' }, function (err, docs) {
 });
 ```
 
+#### Usando Promise
+
+Método de um Service
+
+```js
+@Service
+class ServiceDoc {
+  async findDoc() {
+    return new Promise((resolve, reject) => {
+      // Buscando todos os documentos cujo atributo hello='world'
+      db.find({ hello: 'world' }, function (err, docs) {
+        if(err) {
+          reject(err);
+        }
+        resolve(docs);
+      });
+    });
+  }
+}
+```
+
+Chamando o método do Service
+
+```js
+const result = await serviceDoc.findDoc()
+```
 
 
 
