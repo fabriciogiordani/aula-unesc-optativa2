@@ -74,8 +74,9 @@ class ServiceDoc {
       db.find({ hello: 'world' }, function (err, docs) {
         if(err) {
           reject(err);
+        } else {
+          resolve(docs);
         }
-        resolve(docs);
       });
     });
   }
