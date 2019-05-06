@@ -25,6 +25,8 @@
 8. Avaliação I - Apresentação do projeto - backend
   * [Parte 1 - backend](99-projeto/parte1-backend.md)
 9. Frontend com Angular
+  * [Frontend](07-frontend/frontend.md)
+  * [Exercícios](07-frontend/exercicios.md)
 10. Angular Material
 11. Desenvolvimento do Projeto - backend + frontend
 12. Avaliação II - Apresentação do Projeto - backend + frontend
