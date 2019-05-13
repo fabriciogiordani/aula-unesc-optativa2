@@ -22,10 +22,10 @@
     * [Exercícios](06-nodejs-persistencia/exercicios.md)
 7. Desenvolvimento do Projeto - backend
   * [Parte 1 - backend](99-projeto/parte1-backend.md)
-8. Avaliação I - Apresentação do projeto - backend
-  * [Parte 1 - backend](99-projeto/parte1-backend.md)
+8. Avaliação I - Apresentação do projeto - [Parte 1 - backend](99-projeto/parte1-backend.md)
 9. Frontend com Angular
-  * [Frontend](07-frontend/frontend.md)
+  * [Angular - parte 1](07-frontend/angular-parte1.md)
+  * [Angular - parte 2](07-frontend/angular-parte2.md)
   * [Exercícios](07-frontend/exercicios.md)
 10. Angular Material
 11. Desenvolvimento do Projeto - backend + frontend
