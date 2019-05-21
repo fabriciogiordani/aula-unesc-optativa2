@@ -36,7 +36,15 @@ import {NoopAnimationsModule} from '@angular/platform-browser/animations';
 export class AppModule { }
 ```
 
-### 3 - Importando os componentes
+### 3 - Importando tema
+
+Adicionar o linha abaixo no arquivo style.css:
+
+```css
+@import "~@angular/material/prebuilt-themes/indigo-pink.css";
+```
+
+### 4 - Importando os componentes
 
 Cada componentes que será utilizado deve ser importado individualmente:
 
@@ -51,7 +59,7 @@ import {MatButtonModule, MatCheckboxModule} from '@angular/material';
 export class AppModule { }
 ```
 
-### 6 - (opcional) Adicionando [Material Icons](https://material.io/tools/icons)
+### 5 - (opcional) Adicionando [Material Icons](https://material.io/tools/icons)
 
 Para adicionar o suporte para a lib de ícones do Google Material basta adicionar o link abaixo para que eles sejam carregados no ```index.html```.
 
