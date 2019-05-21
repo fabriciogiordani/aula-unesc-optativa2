@@ -10,7 +10,7 @@ Requisitos Obrigatórios
     - codigo do proprietário;nome proprietário;cpf;nome do animal;data nascimento do animal; ultima visita no petshop
 - Deve conter alguma lógica que utilize dados externos acessados via API.
   - Exemplo: No sistema de título pode receber o título em dolar e traduzir para real consultando a cotação em uma api externa
-- Deve conter alguma consulta com consolide dados inseridos retornando um json com o resultado via api.
+- Deve conter alguma consulta que consolide dados inseridos retornando um json com o resultado via api.
   - Exemplo: Total gasto vs total recebido por dia no sistema de contas
 - Deve-se utilizar NeDB gravando os dados em json
 - O projeto será desenvolvido individualmente

@@ -27,8 +27,9 @@
   * [Angular - parte 1](07-frontend/angular-parte1.md)
     * [Exercícios](07-frontend/exercicios.md)
   * [Angular - parte 2](07-frontend/angular-parte2.md)
-  * [Angular Material](07-frontend/angular-material.md)
 10. Angular Material
+  * [Angular Material](07-frontend/angular-material.md)
 11. Desenvolvimento do Projeto - backend + frontend
+  * [Parte 2 - frontend](99-projeto/parte2-frontend.md)
 12. Avaliação II - Apresentação do Projeto - backend + frontend
 13. N-1
